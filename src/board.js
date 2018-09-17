@@ -8,11 +8,11 @@ class Board extends React.Component {
 	constructor(props) {
 		super(props);
 
-		let cellHeight = 80;
-		let cellWidth = 60;
+		let cellHeight = 60;
+		let cellWidth = 40;
 		let cellMargin = 5;
 
-		let cellCount = props.cellCount || 6;
+		let cellCount = props.cellCount || 18;
 		this.state = {};
 		this.initState({
 			cellWidth: cellWidth,
