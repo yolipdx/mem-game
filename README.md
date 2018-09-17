@@ -13,6 +13,8 @@ You can find the most recent version of this guide [here](https://github.com/fac
 ## Available Scripts
 
 In the project directory, you can run:
+### `npm install`
+install necessary packages
 
 ### `npm start`
 
