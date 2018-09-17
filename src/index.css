@@ -1,0 +1,15 @@
+.board {
+	background-color: grey;
+	border: 1px solid blue;
+	width: 400px;
+	height: 400px;
+}
+
+
+.card {
+	position: absolute;
+	x: 10px;
+	y: 10px;
+	border: 1px solid red;
+	
+}

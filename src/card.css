@@ -1,0 +1,11 @@
+.card:hover {
+	border: 1px solid blue;
+}
+
+.card {
+	position: absolute;
+	display: inline-block;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 2px;
+}

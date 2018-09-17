@@ -1,0 +1,31 @@
+.board {
+	position: relative;
+	float: left;
+	display: inline-block;
+	background-color: lightblue;
+	border: 1px solid blue;
+}
+
+.status {
+	float: left;
+	display: inline-block;
+}
+
+.level-adjust {
+	display: /*block*/;
+	border:1px solid grey;
+	width: 40px;
+	height: 20px;
+	/*border-radius: 1px;*/
+	font-weight: bold;
+	background-color: skyblue;
+	/*padding: 10px;*/
+	margin-left: 4px;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+.level-adjust:hover {
+	border-color: blue;
+	background-color: yellow;
+}

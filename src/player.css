@@ -1,0 +1,50 @@
+
+.player {
+	/*position: relative;*/
+	/*float: left;*/
+	margin-left: 10px;
+	display: block;
+	border-radius: 1px;
+	border: 1px solid #e6f0ff;
+	margin-bottom: 4px;
+
+	padding: 40px;
+}
+
+
+.player-active {
+	border: 1px solid orange;
+}
+
+.score {
+	color: red;
+}
+
+.time {
+	color: blue;
+	font-weight: lighter;
+}
+
+.name {
+	color: #0033cc;
+}
+
+.result-win {
+	font-size: 2em;
+	color: blue;
+	font-weight: bold;
+	border: 1px solid #ffccff;
+	background-color: #99b3ff;
+	padding: auto;
+	text-align: center;
+}
+
+.result-lose {
+	font-size: 2em;
+	color: red;
+	font-weight: bold;
+	border: 1px solid #ffccff;
+	background-color: #99b3ff;
+	padding: auto;
+	text-align: center;
+}
